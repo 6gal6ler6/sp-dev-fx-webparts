@@ -1,7 +1,8 @@
 {
   "$schema": "https://dev.office.com/json-schemas/core-build/serve.schema.json",
   "port": 4321,
-  "initialPage": "https://localhost:5432/workbench",
+  "initialPage": "https://cargillonline.sharepoint.com/sites/BPO/_layouts/15/workbench.aspx",
+    // "https://localhost:5432/workbench",
   "https": true,
   "api": {
     "port": 5432,
